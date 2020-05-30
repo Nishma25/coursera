@@ -30,7 +30,7 @@ section>h2 {
     font-weight: bold;
     height: 45px;
     padding-top: 10px;
-    color: black;
+
 }
 
 section.Harry>h2 {
@@ -42,7 +42,7 @@ section.Hermione>h2 {
 }
 
 section.Ron>h2 {
-  
+    color: black;
     background-color: #F6DDCC;
 }
 
